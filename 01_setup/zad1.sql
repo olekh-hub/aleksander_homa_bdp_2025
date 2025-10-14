@@ -1,1 +1,1 @@
-kochamagh
+create database firma;
